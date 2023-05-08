@@ -1,0 +1,3906 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="786px"
+   height="565px"
+   id="svg1233"
+   sodipodi:docname="58bpm_multiples.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1237">
+    <rect
+       x="-57.447023"
+       y="843.2348"
+       width="484.16172"
+       height="257.20457"
+       id="rect44097" />
+    <clipPath
+       id="clip-0-3">
+      <rect
+         width="735.53107"
+         x="0"
+         y="4.4000001"
+         height="521.73022"
+         id="rect332" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-11-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-11-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect17" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-16-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect522" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-16-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect525" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-20-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect918" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-20-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect921" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-18-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect720" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-18-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect723" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-15-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect410" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-15-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect413" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-13-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect212" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-13-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect215" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-14-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect324" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-14-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect327" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-17-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect608" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-17-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect611" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-19-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect806" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-19-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect809" />
+    </clipPath>
+    <clipPath
+       class="fl-data-clip-path"
+       id="fl-chart-layout-12-clip-path">
+      <rect
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         id="rect126" />
+    </clipPath>
+    <clipPath
+       class="fl-grid-clip-path"
+       id="fl-chart-layout-12-grid-clip-path">
+      <rect
+         x="-1.5"
+         y="4.3499999"
+         width="362.95667"
+         height="64.300003"
+         id="rect129" />
+    </clipPath>
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-7" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-2" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-71" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-6" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-9" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-7" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-93" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-6" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-4" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-9-9" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-7-8" />
+    <rect
+       x="-57.447021"
+       y="843.2348"
+       width="484.16171"
+       height="257.20456"
+       id="rect44097-1-0-93-4" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1235"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.73628319"
+     inkscape:cx="211.875"
+     inkscape:cy="266.88101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="graphic" />
+  <svg
+     id="graphic"
+     fill="currentColor"
+     font-family="Roboto Condensed"
+     width="775"
+     height="554"
+     x="10.5"
+     y="10.5"
+     version="1.1">
+    <rect
+       style="fill:#ffffff;stroke:#808080;stroke-width:1.43979;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect36522"
+       width="827.77441"
+       height="608.56793"
+       x="-37.793831"
+       y="-15.076061" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect2"
+       x="27.0867"
+       y="0" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="21"
+       fill="none"
+       id="rect4"
+       x="27.0867" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="27.0867"
+       opacity="1"
+       id="rect6"
+       y="0" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="27.0867"
+       opacity="1"
+       text-anchor="start"
+       id="text8">1-without system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="27.0867"
+       y="21"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect12" />
+    <rect
+       class="fl-chart-fill"
+       x="27.0867"
+       y="26.85"
+       width="359.95667"
+       height="61.299999"
+       fill="none"
+       id="rect20" />
+    <image
+       class="fl-chart-image"
+       x="27.0867"
+       y="26.85"
+       width="359.95667"
+       height="61.299999"
+       preserveAspectRatio="none"
+       id="image22" />
+    <rect
+       class="fl-chart-interaction"
+       x="27.0867"
+       y="26.85"
+       width="359.95667"
+       height="61.299999"
+       style="opacity:0"
+       id="rect24" />
+    <line
+       x1="27.0867"
+       x2="387.04337"
+       y1="88.150002"
+       y2="88.150002"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line32" />
+    <line
+       x1="27.0867"
+       x2="387.04337"
+       y1="60.286366"
+       y2="60.286366"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line34" />
+    <line
+       x1="27.0867"
+       x2="387.04337"
+       y1="32.422729"
+       y2="32.422729"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line36" />
+    <line
+       x1="27.0867"
+       x2="27.0867"
+       y1="88.150002"
+       y2="26.85"
+       style="stroke:#808080;stroke-width:1.5;stroke-linecap:square"
+       id="line60" />
+    <line
+       x2="20.0867"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line64"
+       x1="27.0867"
+       y1="60.286366"
+       y2="60.286366" />
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text68"
+       x="16.5867"
+       y="63.982365"><tspan
+         x="16.5867"
+         dy="0"
+         id="tspan66"
+         style="fill:#666666">100</tspan></text>
+    <line
+       x2="20.0867"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line72"
+       x1="27.0867"
+       y1="88.150002"
+       y2="88.150002" />
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text76"
+       x="16.5867"
+       y="91.846001"><tspan
+         x="16.5867"
+         dy="0"
+         id="tspan74"
+         style="fill:#666666">50</tspan></text>
+    <line
+       x2="20.0867"
+       style="stroke:#808080;stroke-width:1.5"
+       id="line80"
+       x1="27.0867"
+       y1="32.422726"
+       y2="32.422726" />
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text84"
+       x="16.5867"
+       y="36.118729"><tspan
+         x="16.5867"
+         dy="0"
+         id="tspan82"
+         style="fill:#666666">150</tspan></text>
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text84-2"
+       x="30.290421"
+       y="563.38831"><tspan
+         x="30.290421"
+         id="tspan82-7"
+         style="fill:#666666">0</tspan></text>
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text84-2-6"
+       x="391.47192"
+       y="563.38831"><tspan
+         x="391.47192"
+         id="tspan82-7-1"
+         style="fill:#666666">60</tspan></text>
+    <g
+       id="g40975"
+       transform="translate(188,-106)">
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-03"
+         x="227.51811"
+         y="668.62372"><tspan
+           x="227.51811"
+           id="tspan82-7-20"
+           style="fill:#666666">0</tspan></text>
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-6-8"
+         x="588.69958"
+         y="668.62372"><tspan
+           x="588.69958"
+           id="tspan82-7-1-6"
+           style="fill:#666666">60</tspan></text>
+    </g>
+    <g
+       id="g40706"
+       transform="translate(115.86617,-0.69486977)">
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-7"
+         x="-86.0438"
+         y="447.73785"><tspan
+           x="-86.0438"
+           id="tspan82-7-2"
+           style="fill:#666666">0</tspan></text>
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-6-3"
+         x="275.1377"
+         y="447.73785"><tspan
+           x="275.1377"
+           id="tspan82-7-1-1"
+           style="fill:#666666">60</tspan></text>
+    </g>
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text84-2-0"
+       x="29.129301"
+       y="332.00461"><tspan
+         x="29.129301"
+         id="tspan82-7-7"
+         style="fill:#666666">0</tspan></text>
+    <text
+       text-anchor="end"
+       style="font-weight:normal;font-size:11.2px;fill:#666666"
+       id="text84-2-6-4"
+       x="390.31082"
+       y="332.00461"><tspan
+         x="390.31082"
+         id="tspan82-7-1-8"
+         style="fill:#666666">60</tspan></text>
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect114"
+       x="411.54333"
+       y="0" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="21"
+       fill="none"
+       id="rect116"
+       x="411.54333" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="411.54333"
+       opacity="1"
+       id="rect118"
+       y="0" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="411.54333"
+       opacity="1"
+       text-anchor="start"
+       id="text120">1-with system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="411.54333"
+       y="21"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect124" />
+    <g
+       class="fl-chart-background"
+       id="g138"
+       transform="translate(411.54333,21)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect132" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image134" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect136" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-12-clip-path)"
+       id="g140"
+       transform="translate(411.54333,21)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-12-grid-clip-path)"
+       id="g152"
+       transform="translate(411.54333,21)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g142" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g150">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line144" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line146" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line148" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g190"
+       transform="translate(411.54333,21)">
+      <g
+         class="fl-x-axes"
+         id="g170">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g160">
+          <g
+             class="fl-axis-line"
+             id="g154" />
+          <g
+             class="fl-axis-ticks"
+             id="g156" />
+          <g
+             class="fl-axis-title"
+             id="g158" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g168">
+          <g
+             class="fl-axis-line"
+             id="g162" />
+          <g
+             class="fl-axis-ticks"
+             id="g164" />
+          <g
+             class="fl-axis-title"
+             id="g166" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g188">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g178">
+          <g
+             class="fl-axis-line"
+             id="g172" />
+          <g
+             class="fl-axis-ticks"
+             id="g174" />
+          <g
+             class="fl-axis-title"
+             id="g176" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g186">
+          <g
+             class="fl-axis-line"
+             id="g180" />
+          <g
+             class="fl-axis-ticks"
+             id="g182" />
+          <g
+             class="fl-axis-title"
+             id="g184" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-12-clip-path)"
+       id="g192"
+       transform="translate(411.54333,21)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect200"
+       x="27.0867"
+       y="115" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="136"
+       fill="none"
+       id="rect202"
+       x="27.0867" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="27.0867"
+       opacity="1"
+       id="rect204"
+       y="115" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="27.0867"
+       opacity="1"
+       text-anchor="start"
+       id="text206"
+       y="115">2 -without system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="27.0867"
+       y="136"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect210" />
+    <g
+       class="fl-chart-background"
+       id="g224"
+       transform="translate(27.0867,136)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect218" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image220" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect222" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-13-clip-path)"
+       id="g226"
+       transform="translate(27.0867,136)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-13-grid-clip-path)"
+       id="g238"
+       transform="translate(27.0867,136)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g228" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g236">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line230" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line232" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line234" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g302"
+       transform="translate(27.0867,136)">
+      <g
+         class="fl-x-axes"
+         id="g256">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g246">
+          <g
+             class="fl-axis-line"
+             id="g240" />
+          <g
+             class="fl-axis-ticks"
+             id="g242" />
+          <g
+             class="fl-axis-title"
+             id="g244" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g254">
+          <g
+             class="fl-axis-line"
+             id="g248" />
+          <g
+             class="fl-axis-ticks"
+             id="g250" />
+          <g
+             class="fl-axis-title"
+             id="g252" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g300">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g290">
+          <g
+             class="fl-axis-line"
+             id="g260">
+            <line
+               x1="0"
+               x2="0"
+               y1="67.150002"
+               y2="5.8499999"
+               style="opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:square"
+               id="line258" />
+          </g>
+          <g
+             class="fl-axis-ticks"
+             id="g286">
+            <g
+               transform="translate(0,39.286366)"
+               style="opacity:1"
+               id="g268">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line262"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.6960001)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text266"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan264"
+                   style="fill:#666666">100</tspan></text>
+            </g>
+            <g
+               transform="translate(0,67.15)"
+               style="opacity:1"
+               id="g276">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line270"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text274"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan272"
+                   style="fill:#666666">50</tspan></text>
+            </g>
+            <g
+               transform="translate(0,11.422727)"
+               style="opacity:1"
+               id="g284">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line278"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text282"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan280"
+                   style="fill:#666666">150</tspan></text>
+            </g>
+          </g>
+          <g
+             class="fl-axis-title"
+             id="g288" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g298">
+          <g
+             class="fl-axis-line"
+             id="g292" />
+          <g
+             class="fl-axis-ticks"
+             id="g294" />
+          <g
+             class="fl-axis-title"
+             id="g296" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-13-clip-path)"
+       id="g304"
+       transform="translate(27.0867,136)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect312"
+       x="411.54333"
+       y="115" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="136"
+       fill="none"
+       id="rect314"
+       x="411.54333" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="411.54333"
+       opacity="1"
+       id="rect316"
+       y="115" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="411.54333"
+       opacity="1"
+       text-anchor="start"
+       id="text318"
+       y="115">2 - with system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="411.54333"
+       y="136"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect322" />
+    <g
+       class="fl-chart-background"
+       id="g336"
+       transform="translate(411.54333,136)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect330" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image332" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect334" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-14-clip-path)"
+       id="g338"
+       transform="translate(411.54333,136)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-14-grid-clip-path)"
+       id="g350"
+       transform="translate(411.54333,136)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g340" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g348">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line342" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line344" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line346" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g388"
+       transform="translate(411.54333,136)">
+      <g
+         class="fl-x-axes"
+         id="g368">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g358">
+          <g
+             class="fl-axis-line"
+             id="g352" />
+          <g
+             class="fl-axis-ticks"
+             id="g354" />
+          <g
+             class="fl-axis-title"
+             id="g356" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g366">
+          <g
+             class="fl-axis-line"
+             id="g360" />
+          <g
+             class="fl-axis-ticks"
+             id="g362" />
+          <g
+             class="fl-axis-title"
+             id="g364" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g386">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g376">
+          <g
+             class="fl-axis-line"
+             id="g370" />
+          <g
+             class="fl-axis-ticks"
+             id="g372" />
+          <g
+             class="fl-axis-title"
+             id="g374" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g384">
+          <g
+             class="fl-axis-line"
+             id="g378" />
+          <g
+             class="fl-axis-ticks"
+             id="g380" />
+          <g
+             class="fl-axis-title"
+             id="g382" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-14-clip-path)"
+       id="g390"
+       transform="translate(411.54333,136)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect398"
+       x="27.0867"
+       y="230" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="251"
+       fill="none"
+       id="rect400"
+       x="27.0867" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="27.0867"
+       opacity="1"
+       id="rect402"
+       y="230" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="27.0867"
+       opacity="1"
+       text-anchor="start"
+       id="text404"
+       y="230">3 - without system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="27.0867"
+       y="251"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect408" />
+    <g
+       class="fl-chart-background"
+       id="g422"
+       transform="translate(27.0867,251)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect416" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image418" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect420" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-15-clip-path)"
+       id="g424"
+       transform="translate(27.0867,251)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-15-grid-clip-path)"
+       id="g436"
+       transform="translate(27.0867,251)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g426" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g434">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line428" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line430" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line432" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g500"
+       transform="translate(27.0867,251)">
+      <g
+         class="fl-x-axes"
+         id="g454">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g444">
+          <g
+             class="fl-axis-line"
+             id="g438" />
+          <g
+             class="fl-axis-ticks"
+             id="g440" />
+          <g
+             class="fl-axis-title"
+             id="g442" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g452">
+          <g
+             class="fl-axis-line"
+             id="g446" />
+          <g
+             class="fl-axis-ticks"
+             id="g448" />
+          <g
+             class="fl-axis-title"
+             id="g450" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g498">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g488">
+          <g
+             class="fl-axis-line"
+             id="g458">
+            <line
+               x1="0"
+               x2="0"
+               y1="67.150002"
+               y2="5.8499999"
+               style="opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:square"
+               id="line456" />
+          </g>
+          <g
+             class="fl-axis-ticks"
+             id="g484">
+            <g
+               transform="translate(0,39.286366)"
+               style="opacity:1"
+               id="g466">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line460"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.6960001)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text464"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan462"
+                   style="fill:#666666">100</tspan></text>
+            </g>
+            <g
+               transform="translate(0,67.15)"
+               style="opacity:1"
+               id="g474">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line468"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text472"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan470"
+                   style="fill:#666666">50</tspan></text>
+            </g>
+            <g
+               transform="translate(0,11.422727)"
+               style="opacity:1"
+               id="g482">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line476"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text480"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan478"
+                   style="fill:#666666">150</tspan></text>
+            </g>
+          </g>
+          <g
+             class="fl-axis-title"
+             id="g486" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g496">
+          <g
+             class="fl-axis-line"
+             id="g490" />
+          <g
+             class="fl-axis-ticks"
+             id="g492" />
+          <g
+             class="fl-axis-title"
+             id="g494" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-15-clip-path)"
+       id="g502"
+       transform="translate(27.0867,251)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect510"
+       x="411.54333"
+       y="230" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="251"
+       fill="none"
+       id="rect512"
+       x="411.54333" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="411.54333"
+       opacity="1"
+       id="rect514"
+       y="230" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="411.54333"
+       opacity="1"
+       text-anchor="start"
+       id="text516"
+       y="230">3-with system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="411.54333"
+       y="251"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect520" />
+    <g
+       class="fl-chart-background"
+       id="g534"
+       transform="translate(411.54333,251)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect528" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image530" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect532" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-16-clip-path)"
+       id="g536"
+       transform="translate(411.54333,251)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-16-grid-clip-path)"
+       id="g548"
+       transform="translate(411.54333,251)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g538" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g546">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line540" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line542" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line544" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g586"
+       transform="translate(411.54333,251)">
+      <g
+         class="fl-x-axes"
+         id="g566">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g556">
+          <g
+             class="fl-axis-line"
+             id="g550" />
+          <g
+             class="fl-axis-ticks"
+             id="g552" />
+          <g
+             class="fl-axis-title"
+             id="g554" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g564">
+          <g
+             class="fl-axis-line"
+             id="g558" />
+          <g
+             class="fl-axis-ticks"
+             id="g560" />
+          <g
+             class="fl-axis-title"
+             id="g562" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g584">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g574">
+          <g
+             class="fl-axis-line"
+             id="g568" />
+          <g
+             class="fl-axis-ticks"
+             id="g570" />
+          <g
+             class="fl-axis-title"
+             id="g572" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g582">
+          <g
+             class="fl-axis-line"
+             id="g576" />
+          <g
+             class="fl-axis-ticks"
+             id="g578" />
+          <g
+             class="fl-axis-title"
+             id="g580" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-16-clip-path)"
+       id="g588"
+       transform="translate(411.54333,251)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect596"
+       x="27.0867"
+       y="345" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="366"
+       fill="none"
+       id="rect598"
+       x="27.0867" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="27.0867"
+       opacity="1"
+       id="rect600"
+       y="345" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="27.0867"
+       opacity="1"
+       text-anchor="start"
+       id="text602"
+       y="345">4-without system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="27.0867"
+       y="366"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect606" />
+    <g
+       class="fl-chart-background"
+       id="g620"
+       transform="translate(27.0867,366)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect614" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image616" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect618" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-17-clip-path)"
+       id="g622"
+       transform="translate(27.0867,366)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-17-grid-clip-path)"
+       id="g634"
+       transform="translate(27.0867,366)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g624" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g632">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line626" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line628" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line630" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g698"
+       transform="translate(27.0867,366)">
+      <g
+         class="fl-x-axes"
+         id="g652">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g642">
+          <g
+             class="fl-axis-line"
+             id="g636" />
+          <g
+             class="fl-axis-ticks"
+             id="g638" />
+          <g
+             class="fl-axis-title"
+             id="g640" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g650">
+          <g
+             class="fl-axis-line"
+             id="g644" />
+          <g
+             class="fl-axis-ticks"
+             id="g646" />
+          <g
+             class="fl-axis-title"
+             id="g648" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g696">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g686">
+          <g
+             class="fl-axis-line"
+             id="g656">
+            <line
+               x1="0"
+               x2="0"
+               y1="67.150002"
+               y2="5.8499999"
+               style="opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:square"
+               id="line654" />
+          </g>
+          <g
+             class="fl-axis-ticks"
+             id="g682">
+            <g
+               transform="translate(0,39.286366)"
+               style="opacity:1"
+               id="g664">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line658"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.6960001)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text662"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan660"
+                   style="fill:#666666">100</tspan></text>
+            </g>
+            <g
+               transform="translate(0,67.15)"
+               style="opacity:1"
+               id="g672">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line666"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text670"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan668"
+                   style="fill:#666666">50</tspan></text>
+            </g>
+            <g
+               transform="translate(0,11.422727)"
+               style="opacity:1"
+               id="g680">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line674"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text678"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan676"
+                   style="fill:#666666">150</tspan></text>
+            </g>
+          </g>
+          <g
+             class="fl-axis-title"
+             id="g684" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g694">
+          <g
+             class="fl-axis-line"
+             id="g688" />
+          <g
+             class="fl-axis-ticks"
+             id="g690" />
+          <g
+             class="fl-axis-title"
+             id="g692" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-17-clip-path)"
+       id="g700"
+       transform="translate(27.0867,366)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect708"
+       x="411.54333"
+       y="345" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="366"
+       fill="none"
+       id="rect710"
+       x="411.54333" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="411.54333"
+       opacity="1"
+       id="rect712"
+       y="345" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="411.54333"
+       opacity="1"
+       text-anchor="start"
+       id="text714"
+       y="345">4-with system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="411.54333"
+       y="366"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect718" />
+    <g
+       class="fl-chart-background"
+       id="g732"
+       transform="translate(411.54333,366)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect726" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image728" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect730" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-18-clip-path)"
+       id="g734"
+       transform="translate(411.54333,366)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-18-grid-clip-path)"
+       id="g746"
+       transform="translate(411.54333,366)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g736" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g744">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line738" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line740" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line742" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g784"
+       transform="translate(411.54333,366)">
+      <g
+         class="fl-x-axes"
+         id="g764">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g754">
+          <g
+             class="fl-axis-line"
+             id="g748" />
+          <g
+             class="fl-axis-ticks"
+             id="g750" />
+          <g
+             class="fl-axis-title"
+             id="g752" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g762">
+          <g
+             class="fl-axis-line"
+             id="g756" />
+          <g
+             class="fl-axis-ticks"
+             id="g758" />
+          <g
+             class="fl-axis-title"
+             id="g760" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g782">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g772">
+          <g
+             class="fl-axis-line"
+             id="g766" />
+          <g
+             class="fl-axis-ticks"
+             id="g768" />
+          <g
+             class="fl-axis-title"
+             id="g770" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g780">
+          <g
+             class="fl-axis-line"
+             id="g774" />
+          <g
+             class="fl-axis-ticks"
+             id="g776" />
+          <g
+             class="fl-axis-title"
+             id="g778" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-18-clip-path)"
+       id="g786"
+       transform="translate(411.54333,366)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect794"
+       x="27.0867"
+       y="460" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="481"
+       fill="none"
+       id="rect796"
+       x="27.0867" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="27.0867"
+       opacity="1"
+       id="rect798"
+       y="460" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="27.0867"
+       opacity="1"
+       text-anchor="start"
+       id="text800"
+       y="460">5-without system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="27.0867"
+       y="481"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect804" />
+    <g
+       class="fl-chart-background"
+       id="g818"
+       transform="translate(27.0867,481)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect812" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image814" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect816" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-19-clip-path)"
+       id="g820"
+       transform="translate(27.0867,481)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-19-grid-clip-path)"
+       id="g832"
+       transform="translate(27.0867,481)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g822" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g830">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line824" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line826" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line828" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g896"
+       transform="translate(27.0867,481)">
+      <g
+         class="fl-x-axes"
+         id="g850">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g840">
+          <g
+             class="fl-axis-line"
+             id="g834" />
+          <g
+             class="fl-axis-ticks"
+             id="g836" />
+          <g
+             class="fl-axis-title"
+             id="g838" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g848">
+          <g
+             class="fl-axis-line"
+             id="g842" />
+          <g
+             class="fl-axis-ticks"
+             id="g844" />
+          <g
+             class="fl-axis-title"
+             id="g846" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g894">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g884">
+          <g
+             class="fl-axis-line"
+             id="g854">
+            <line
+               x1="0"
+               x2="0"
+               y1="67.150002"
+               y2="5.8499999"
+               style="opacity:1;stroke:#808080;stroke-width:1.5;stroke-linecap:square"
+               id="line852" />
+          </g>
+          <g
+             class="fl-axis-ticks"
+             id="g880">
+            <g
+               transform="translate(0,39.286366)"
+               style="opacity:1"
+               id="g862">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line856"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.6960001)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text860"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan858"
+                   style="fill:#666666">100</tspan></text>
+            </g>
+            <g
+               transform="translate(0,67.15)"
+               style="opacity:1"
+               id="g870">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line864"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text868"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan866"
+                   style="fill:#666666">50</tspan></text>
+            </g>
+            <g
+               transform="translate(0,11.422727)"
+               style="opacity:1"
+               id="g878">
+              <line
+                 x2="-7"
+                 style="stroke:#808080;stroke-width:1.5"
+                 id="line872"
+                 x1="0"
+                 y1="0"
+                 y2="0" />
+              <text
+                 text-anchor="end"
+                 transform="translate(-10.5,3.696)"
+                 style="font-weight:normal;font-size:11.2px;fill:#666666"
+                 id="text876"><tspan
+                   x="0"
+                   dy="0"
+                   id="tspan874"
+                   style="fill:#666666">150</tspan></text>
+            </g>
+          </g>
+          <g
+             class="fl-axis-title"
+             id="g882" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g892">
+          <g
+             class="fl-axis-line"
+             id="g886" />
+          <g
+             class="fl-axis-ticks"
+             id="g888" />
+          <g
+             class="fl-axis-title"
+             id="g890" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-19-clip-path)"
+       id="g898"
+       transform="translate(27.0867,481)" />
+    <rect
+       class="fl-facet-rect"
+       width="363.45667"
+       height="94"
+       fill="none"
+       id="rect906"
+       x="411.54333"
+       y="460" />
+    <rect
+       class="fl-facet-primary-rect"
+       width="363.45667"
+       height="73"
+       y="481"
+       fill="none"
+       id="rect908"
+       x="411.54333" />
+    <rect
+       class="fl-facet-title-bg"
+       height="21"
+       width="0"
+       fill="#eeeeee"
+       x="411.54333"
+       opacity="1"
+       id="rect910"
+       y="460" />
+    <text
+       class="fl-facet-title-text"
+       font-size="14px"
+       font-weight="600"
+       dx="0"
+       dy="14.7"
+       x="411.54333"
+       opacity="1"
+       text-anchor="start"
+       id="text912"
+       y="460">5-with system</text>
+    <rect
+       class="fl-chart-debug-rectangle"
+       x="411.54333"
+       y="481"
+       width="363.45667"
+       height="73"
+       style="display:none;fill:none;stroke:#ff0000;stroke-width:1px"
+       id="rect916" />
+    <g
+       class="fl-chart-background"
+       id="g930"
+       transform="translate(411.54333,481)">
+      <rect
+         class="fl-chart-fill"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         fill="none"
+         id="rect924" />
+      <image
+         class="fl-chart-image"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         preserveAspectRatio="none"
+         id="image926" />
+      <rect
+         class="fl-chart-interaction"
+         x="0"
+         y="5.8499999"
+         width="359.95667"
+         height="61.299999"
+         style="opacity:0"
+         id="rect928" />
+    </g>
+    <g
+       class="fl-data-background"
+       clip-path="url(#fl-chart-layout-20-clip-path)"
+       id="g932"
+       transform="translate(411.54333,481)" />
+    <g
+       class="fl-gridlines"
+       clip-path="url(#fl-chart-layout-20-grid-clip-path)"
+       id="g944"
+       transform="translate(411.54333,481)">
+      <g
+         class="fl-gridlines-vertical"
+         id="g934" />
+      <g
+         class="fl-gridlines-horizontal"
+         id="g942">
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="67.150002"
+           y2="67.150002"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line936" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="39.286366"
+           y2="39.286366"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line938" />
+        <line
+           x1="0"
+           x2="359.95667"
+           y1="11.422728"
+           y2="11.422728"
+           style="opacity:1;stroke:#808080;stroke-width:1.5"
+           id="line940" />
+      </g>
+    </g>
+    <g
+       class="fl-axes"
+       id="g982"
+       transform="translate(411.54333,481)">
+      <g
+         class="fl-x-axes"
+         id="g962">
+        <g
+           class="fl-axis fl-x-axis fl-bottom-axis"
+           id="g952">
+          <g
+             class="fl-axis-line"
+             id="g946" />
+          <g
+             class="fl-axis-ticks"
+             id="g948" />
+          <g
+             class="fl-axis-title"
+             id="g950" />
+        </g>
+        <g
+           class="fl-axis fl-x-axis fl-top-axis"
+           id="g960">
+          <g
+             class="fl-axis-line"
+             id="g954" />
+          <g
+             class="fl-axis-ticks"
+             id="g956" />
+          <g
+             class="fl-axis-title"
+             id="g958" />
+        </g>
+      </g>
+      <g
+         class="fl-y-axes"
+         id="g980">
+        <g
+           class="fl-axis fl-y-axis fl-left-axis"
+           id="g970">
+          <g
+             class="fl-axis-line"
+             id="g964" />
+          <g
+             class="fl-axis-ticks"
+             id="g966" />
+          <g
+             class="fl-axis-title"
+             id="g968" />
+        </g>
+        <g
+           class="fl-axis fl-y-axis fl-right-axis"
+           id="g978">
+          <g
+             class="fl-axis-line"
+             id="g972" />
+          <g
+             class="fl-axis-ticks"
+             id="g974" />
+          <g
+             class="fl-axis-title"
+             id="g976" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="fl-data-foreground"
+       clip-path="url(#fl-chart-layout-20-clip-path)"
+       id="g984"
+       transform="translate(411.54333,481)" />
+    <g
+       class="annotations below"
+       id="g996" />
+    <g
+       id="areas" />
+    <g
+       id="lines">
+      <g
+         class="series"
+         id="g1004">
+        <clipPath
+           id="clip-0-0">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect999" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(27.086700439453125, 21)"
+           clip-path="url(#clip-0-0)"
+           clip-path-id="0-0"
+           d="M0,44.8590909090909C19.997591654459637,43.93030303030302,39.995183308919266,43.00151515151514,59.992774963378906,42.07272727272726C79.99036661783855,41.143939393939384,99.98795827229817,40.215151515151504,119.98554992675781,39.286363636363625C139.98314158121744,38.357575757575745,159.9807332356771,37.42878787878787,179.97832489013672,36.49999999999999C199.97591654459634,35.57121212121211,219.973508199056,34.64242424242424,239.97109985351562,33.71363636363636C259.9686915079753,32.78484848484848,279.9662831624349,32.78484848484848,299.96387481689453,30.927272727272722C319.9614664713542,29.069696969696963,339.9590581258138,22.196666666666665,359.95664978027344,15.323636363636364"
+           id="path1002" />
+      </g>
+      <g
+         class="series"
+         id="g1011">
+        <clipPath
+           id="clip-1-1">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1006" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(411.5433349609375, 21)"
+           clip-path="url(#clip-1-1)"
+           clip-path-id="1-1"
+           d="M0,45.97363636363636C19.997591654459637,45.04484848484848,39.995183308919266,44.11606060606061,59.992774963378906,43.18727272727273C79.99036661783855,42.25848484848485,99.98795827229817,41.329696969696975,119.98554992675781,40.400909090909096C139.98314158121744,39.472121212121216,159.9807332356771,38.54333333333333,179.97832489013672,37.61454545454545C199.97591654459634,36.68575757575757,219.973508199056,35.7569696969697,239.97109985351562,34.82818181818182C259.9686915079753,33.89939393939394,279.9662831624349,33.89939393939394,299.96387481689453,32.04181818181818C319.9614664713542,30.18424242424242,339.9590581258138,26.933484848484845,359.95664978027344,23.68272727272727"
+           id="path1009"
+           style="stroke:#00a900;stroke-opacity:1" />
+      </g>
+      <g
+         class="series"
+         id="g1018">
+        <clipPath
+           id="clip-2-2">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1013" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(27.086700439453125, 136)"
+           clip-path="url(#clip-2-2)"
+           clip-path-id="2-2"
+           d="M0,45.97363636363636C19.997591654459637,45.04484848484848,39.995183308919266,44.11606060606061,59.992774963378906,43.18727272727273C79.99036661783855,42.25848484848485,99.98795827229817,41.329696969696975,119.98554992675781,40.400909090909096C139.98314158121744,39.472121212121216,159.9807332356771,38.54333333333333,179.97832489013672,37.61454545454545C199.97591654459634,36.68575757575757,219.973508199056,35.7569696969697,239.97109985351562,34.82818181818182C259.9686915079753,33.89939393939394,279.9662831624349,33.89939393939394,299.96387481689453,32.04181818181818C319.9614664713542,30.18424242424242,339.9590581258138,23.31121212121212,359.95664978027344,16.438181818181818"
+           id="path1016" />
+      </g>
+      <g
+         class="series"
+         id="g1025">
+        <clipPath
+           id="clip-3-3">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1020" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(411.5433349609375, 136)"
+           clip-path="url(#clip-3-3)"
+           clip-path-id="3-3"
+           d="M0,43.74454545454545C19.997591654459637,42.81575757575757,39.995183308919266,41.88696969696969,59.992774963378906,40.958181818181814C79.99036661783855,40.029393939393934,99.98795827229817,39.10060606060606,119.98554992675781,38.17181818181818C139.98314158121744,37.2430303030303,159.9807332356771,36.31424242424242,179.97832489013672,35.38545454545454C199.97591654459634,34.45666666666666,219.973508199056,33.52787878787879,239.97109985351562,32.59909090909091C259.9686915079753,31.67030303030303,279.9662831624349,31.670303030303025,299.96387481689453,29.812727272727265C319.9614664713542,27.955151515151506,339.9590581258138,24.704393939393935,359.95664978027344,21.453636363636363"
+           id="path1023"
+           style="stroke:#00a900;stroke-opacity:1" />
+      </g>
+      <g
+         class="series"
+         id="g1032">
+        <clipPath
+           id="clip-4-4">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1027" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(27.086700439453125, 251)"
+           clip-path="url(#clip-4-4)"
+           clip-path-id="4-4"
+           d="M0,44.8590909090909C19.997591654459637,43.465909090909086,39.995183308919266,42.07272727272726,59.992774963378906,40.958181818181814C79.99036661783855,39.843636363636364,99.98795827229817,39.10060606060606,119.98554992675781,38.17181818181818C139.98314158121744,37.2430303030303,159.9807332356771,36.128484848484845,179.97832489013672,35.38545454545454C199.97591654459634,34.64242424242424,219.973508199056,34.73530303030303,239.97109985351562,33.71363636363636C259.9686915079753,32.69196969696969,279.9662831624349,32.22757575757576,299.96387481689453,29.255454545454544C319.9614664713542,26.28333333333333,339.9590581258138,21.082121212121212,359.95664978027344,15.880909090909093"
+           id="path1030" />
+      </g>
+      <g
+         class="series"
+         id="g1039">
+        <clipPath
+           id="clip-5-5">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1034" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(411.5433349609375, 251)"
+           clip-path="url(#clip-5-5)"
+           clip-path-id="5-5"
+           d="M0,45.41636363636363C19.997591654459637,44.580454545454536,39.995183308919266,43.744545454545445,59.992774963378906,42.629999999999995C79.99036661783855,41.515454545454546,99.98795827229817,39.750757575757575,119.98554992675781,38.72909090909091C139.98314158121744,37.70742424242424,159.9807332356771,37.52166666666666,179.97832489013672,36.49999999999999C199.97591654459634,35.478333333333325,219.973508199056,34.085151515151516,239.97109985351562,32.59909090909091C259.9686915079753,31.113030303030307,279.9662831624349,29.25545454545454,299.96387481689453,27.58363636363636C319.9614664713542,25.911818181818177,339.9590581258138,24.239999999999995,359.95664978027344,22.568181818181813"
+           id="path1037"
+           style="stroke:#00a900;stroke-opacity:1" />
+      </g>
+      <g
+         class="series"
+         id="g1046">
+        <clipPath
+           id="clip-6-6">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1041" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(27.086700439453125, 366)"
+           clip-path="url(#clip-6-6)"
+           clip-path-id="6-6"
+           d="M0,41.51545454545454C19.997591654459637,41.190378787878785,39.995183308919266,40.86530303030303,59.992774963378906,39.843636363636364C79.99036661783855,38.821969696969695,99.98795827229817,36.40712121212121,119.98554992675781,35.38545454545454C139.98314158121744,34.363787878787875,159.9807332356771,34.64242424242424,179.97832489013672,33.71363636363636C199.97591654459634,32.78484848484848,219.973508199056,30.834393939393934,239.97109985351562,29.812727272727265C259.9686915079753,28.791060606060597,279.9662831624349,29.069696969696963,299.96387481689453,27.58363636363636C319.9614664713542,26.097575757575754,339.9590581258138,20.431969696969695,359.95664978027344,14.76636363636364"
+           id="path1044" />
+      </g>
+      <g
+         class="series"
+         id="g1053">
+        <clipPath
+           id="clip-7-7">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1048" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(411.5433349609375, 366)"
+           clip-path="url(#clip-7-7)"
+           clip-path-id="7-7"
+           d="M0,42.629999999999995C19.997591654459637,42.212045454545446,39.995183308919266,41.794090909090905,59.992774963378906,40.958181818181814C79.99036661783855,40.12227272727272,99.98795827229817,38.54333333333333,119.98554992675781,37.61454545454545C139.98314158121744,36.68575757575757,159.9807332356771,36.128484848484845,179.97832489013672,35.38545454545454C199.97591654459634,34.64242424242424,219.973508199056,34.1780303030303,239.97109985351562,33.15636363636363C259.9686915079753,32.13469696969696,279.9662831624349,31.298787878787877,299.96387481689453,29.255454545454544C319.9614664713542,27.21212121212121,339.9590581258138,24.054242424242425,359.95664978027344,20.896363636363635"
+           id="path1051"
+           style="stroke:#00a900;stroke-opacity:1" />
+      </g>
+      <g
+         class="series"
+         id="g1060">
+        <clipPath
+           id="clip-8-8">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1055" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(27.086700439453125, 481)"
+           clip-path="url(#clip-8-8)"
+           clip-path-id="8-8"
+           d="M0,40.400909090909096C19.997591654459637,39.65787878787879,39.995183308919266,38.914848484848484,59.992774963378906,38.17181818181818C79.99036661783855,37.42878787878788,99.98795827229817,36.68575757575757,119.98554992675781,35.94272727272727C139.98314158121744,35.199696969696966,159.9807332356771,34.54954545454545,179.97832489013672,33.71363636363636C199.97591654459634,32.87772727272727,219.973508199056,32.32045454545454,239.97109985351562,30.927272727272722C259.9686915079753,29.534090909090907,279.9662831624349,28.69818181818182,299.96387481689453,25.354545454545455C319.9614664713542,22.01090909090909,339.9590581258138,16.438181818181818,359.95664978027344,10.865454545454543"
+           id="path1058" />
+      </g>
+      <g
+         class="series"
+         id="g1067">
+        <clipPath
+           id="clip-9-9">
+          <rect
+             width="359.95664978027344"
+             x="0"
+             y="3.0500000000000003"
+             height="66.89999999999999"
+             id="rect1062" />
+        </clipPath>
+        <path
+           class="line"
+           opacity="1"
+           pointer-events="none"
+           fill="none"
+           stroke="#000000"
+           stroke-width="2.8000000000000003"
+           transform="translate(411.5433349609375, 481)"
+           clip-path="url(#clip-9-9)"
+           clip-path-id="9-9"
+           d="M0,43.74454545454545C19.997591654459637,42.81575757575757,39.995183308919266,41.88696969696969,59.992774963378906,40.958181818181814C79.99036661783855,40.029393939393934,99.98795827229817,39.28636363636364,119.98554992675781,38.17181818181818C139.98314158121744,37.057272727272725,159.9807332356771,35.292575757575754,179.97832489013672,34.270909090909086C199.97591654459634,33.24924242424242,219.973508199056,32.87772727272727,239.97109985351562,32.04181818181818C259.9686915079753,31.20590909090909,279.9662831624349,31.1130303030303,299.96387481689453,29.255454545454544C319.9614664713542,27.39787878787879,339.9590581258138,23.868484848484847,359.95664978027344,20.339090909090906"
+           id="path1065"
+           style="stroke:#00a900;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="data-points">
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 21)"
+         clip-path="url(#facet-clip-0)"
+         id="g1077">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,44.8590909090909A3.5,3.5,0,1,1,3.5,44.8590909090909A3.5,3.5,0,1,1,-3.5,44.8590909090909Z"
+           opacity="0"
+           id="point-0-0" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,42.07272727272726A3.5,3.5,0,1,1,63.492774963378906,42.07272727272726A3.5,3.5,0,1,1,56.492774963378906,42.07272727272726Z"
+           opacity="0"
+           id="point-0-1" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,39.286363636363625A3.5,3.5,0,1,1,123.48554992675781,39.286363636363625A3.5,3.5,0,1,1,116.48554992675781,39.286363636363625Z"
+           opacity="0"
+           id="point-0-2" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,36.49999999999999A3.5,3.5,0,1,1,183.47832489013672,36.49999999999999A3.5,3.5,0,1,1,176.47832489013672,36.49999999999999Z"
+           opacity="0"
+           id="point-0-3" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,33.71363636363636A3.5,3.5,0,1,1,243.47109985351562,33.71363636363636A3.5,3.5,0,1,1,236.47109985351562,33.71363636363636Z"
+           opacity="0"
+           id="point-0-4" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,30.927272727272722A3.5,3.5,0,1,1,303.46387481689453,30.927272727272722A3.5,3.5,0,1,1,296.46387481689453,30.927272727272722Z"
+           opacity="0"
+           id="point-0-5" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,15.323636363636364A3.5,3.5,0,1,1,363.45664978027344,15.323636363636364A3.5,3.5,0,1,1,356.45664978027344,15.323636363636364Z"
+           opacity="0"
+           id="point-0-6" />
+      </g>
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 21)"
+         clip-path="url(#facet-clip-1)"
+         id="g1086">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,45.97363636363636A3.5,3.5,0,1,1,3.5,45.97363636363636A3.5,3.5,0,1,1,-3.5,45.97363636363636Z"
+           opacity="0"
+           id="point-0-7" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,43.18727272727273A3.5,3.5,0,1,1,63.492774963378906,43.18727272727273A3.5,3.5,0,1,1,56.492774963378906,43.18727272727273Z"
+           opacity="0"
+           id="point-0-8" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,40.400909090909096A3.5,3.5,0,1,1,123.48554992675781,40.400909090909096A3.5,3.5,0,1,1,116.48554992675781,40.400909090909096Z"
+           opacity="0"
+           id="point-0-9" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,37.61454545454545A3.5,3.5,0,1,1,183.47832489013672,37.61454545454545A3.5,3.5,0,1,1,176.47832489013672,37.61454545454545Z"
+           opacity="0"
+           id="point-0-10" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,34.82818181818182A3.5,3.5,0,1,1,243.47109985351562,34.82818181818182A3.5,3.5,0,1,1,236.47109985351562,34.82818181818182Z"
+           opacity="0"
+           id="point-0-11" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,32.04181818181818A3.5,3.5,0,1,1,303.46387481689453,32.04181818181818A3.5,3.5,0,1,1,296.46387481689453,32.04181818181818Z"
+           opacity="0"
+           id="point-0-12" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,23.68272727272727A3.5,3.5,0,1,1,363.45664978027344,23.68272727272727A3.5,3.5,0,1,1,356.45664978027344,23.68272727272727Z"
+           opacity="0"
+           id="point-0-13" />
+      </g>
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 136)"
+         clip-path="url(#facet-clip-2)"
+         id="g1095">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,45.97363636363636A3.5,3.5,0,1,1,3.5,45.97363636363636A3.5,3.5,0,1,1,-3.5,45.97363636363636Z"
+           opacity="0"
+           id="point-0-14" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,43.18727272727273A3.5,3.5,0,1,1,63.492774963378906,43.18727272727273A3.5,3.5,0,1,1,56.492774963378906,43.18727272727273Z"
+           opacity="0"
+           id="point-0-15" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,40.400909090909096A3.5,3.5,0,1,1,123.48554992675781,40.400909090909096A3.5,3.5,0,1,1,116.48554992675781,40.400909090909096Z"
+           opacity="0"
+           id="point-0-16" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,37.61454545454545A3.5,3.5,0,1,1,183.47832489013672,37.61454545454545A3.5,3.5,0,1,1,176.47832489013672,37.61454545454545Z"
+           opacity="0"
+           id="point-0-17" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,34.82818181818182A3.5,3.5,0,1,1,243.47109985351562,34.82818181818182A3.5,3.5,0,1,1,236.47109985351562,34.82818181818182Z"
+           opacity="0"
+           id="point-0-18" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,32.04181818181818A3.5,3.5,0,1,1,303.46387481689453,32.04181818181818A3.5,3.5,0,1,1,296.46387481689453,32.04181818181818Z"
+           opacity="0"
+           id="point-0-19" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,16.438181818181818A3.5,3.5,0,1,1,363.45664978027344,16.438181818181818A3.5,3.5,0,1,1,356.45664978027344,16.438181818181818Z"
+           opacity="0"
+           id="point-0-20" />
+      </g>
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 136)"
+         clip-path="url(#facet-clip-3)"
+         id="g1104">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,43.74454545454545A3.5,3.5,0,1,1,3.5,43.74454545454545A3.5,3.5,0,1,1,-3.5,43.74454545454545Z"
+           opacity="0"
+           id="point-0-21" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,40.958181818181814A3.5,3.5,0,1,1,63.492774963378906,40.958181818181814A3.5,3.5,0,1,1,56.492774963378906,40.958181818181814Z"
+           opacity="0"
+           id="point-0-22" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,38.17181818181818A3.5,3.5,0,1,1,123.48554992675781,38.17181818181818A3.5,3.5,0,1,1,116.48554992675781,38.17181818181818Z"
+           opacity="0"
+           id="point-0-23" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,35.38545454545454A3.5,3.5,0,1,1,183.47832489013672,35.38545454545454A3.5,3.5,0,1,1,176.47832489013672,35.38545454545454Z"
+           opacity="0"
+           id="point-0-24" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,32.59909090909091A3.5,3.5,0,1,1,243.47109985351562,32.59909090909091A3.5,3.5,0,1,1,236.47109985351562,32.59909090909091Z"
+           opacity="0"
+           id="point-0-25" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,29.812727272727265A3.5,3.5,0,1,1,303.46387481689453,29.812727272727265A3.5,3.5,0,1,1,296.46387481689453,29.812727272727265Z"
+           opacity="0"
+           id="point-0-26" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,21.453636363636363A3.5,3.5,0,1,1,363.45664978027344,21.453636363636363A3.5,3.5,0,1,1,356.45664978027344,21.453636363636363Z"
+           opacity="0"
+           id="point-0-27" />
+      </g>
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 251)"
+         clip-path="url(#facet-clip-4)"
+         id="g1113">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,44.8590909090909A3.5,3.5,0,1,1,3.5,44.8590909090909A3.5,3.5,0,1,1,-3.5,44.8590909090909Z"
+           opacity="0"
+           id="point-0-28" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,40.958181818181814A3.5,3.5,0,1,1,63.492774963378906,40.958181818181814A3.5,3.5,0,1,1,56.492774963378906,40.958181818181814Z"
+           opacity="0"
+           id="point-0-29" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,38.17181818181818A3.5,3.5,0,1,1,123.48554992675781,38.17181818181818A3.5,3.5,0,1,1,116.48554992675781,38.17181818181818Z"
+           opacity="0"
+           id="point-0-30" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,35.38545454545454A3.5,3.5,0,1,1,183.47832489013672,35.38545454545454A3.5,3.5,0,1,1,176.47832489013672,35.38545454545454Z"
+           opacity="0"
+           id="point-0-31" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,33.71363636363636A3.5,3.5,0,1,1,243.47109985351562,33.71363636363636A3.5,3.5,0,1,1,236.47109985351562,33.71363636363636Z"
+           opacity="0"
+           id="point-0-32" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,29.255454545454544A3.5,3.5,0,1,1,303.46387481689453,29.255454545454544A3.5,3.5,0,1,1,296.46387481689453,29.255454545454544Z"
+           opacity="0"
+           id="point-0-33" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,15.880909090909093A3.5,3.5,0,1,1,363.45664978027344,15.880909090909093A3.5,3.5,0,1,1,356.45664978027344,15.880909090909093Z"
+           opacity="0"
+           id="point-0-34" />
+      </g>
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 251)"
+         clip-path="url(#facet-clip-5)"
+         id="g1122">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,45.41636363636363A3.5,3.5,0,1,1,3.5,45.41636363636363A3.5,3.5,0,1,1,-3.5,45.41636363636363Z"
+           opacity="0"
+           id="point-0-35" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,42.629999999999995A3.5,3.5,0,1,1,63.492774963378906,42.629999999999995A3.5,3.5,0,1,1,56.492774963378906,42.629999999999995Z"
+           opacity="0"
+           id="point-0-36" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,38.72909090909091A3.5,3.5,0,1,1,123.48554992675781,38.72909090909091A3.5,3.5,0,1,1,116.48554992675781,38.72909090909091Z"
+           opacity="0"
+           id="point-0-37" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,36.49999999999999A3.5,3.5,0,1,1,183.47832489013672,36.49999999999999A3.5,3.5,0,1,1,176.47832489013672,36.49999999999999Z"
+           opacity="0"
+           id="point-0-38" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,32.59909090909091A3.5,3.5,0,1,1,243.47109985351562,32.59909090909091A3.5,3.5,0,1,1,236.47109985351562,32.59909090909091Z"
+           opacity="0"
+           id="point-0-39" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,27.58363636363636A3.5,3.5,0,1,1,303.46387481689453,27.58363636363636A3.5,3.5,0,1,1,296.46387481689453,27.58363636363636Z"
+           opacity="0"
+           id="point-0-40" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,22.568181818181813A3.5,3.5,0,1,1,363.45664978027344,22.568181818181813A3.5,3.5,0,1,1,356.45664978027344,22.568181818181813Z"
+           opacity="0"
+           id="point-0-41" />
+      </g>
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 366)"
+         clip-path="url(#facet-clip-6)"
+         id="g1131">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,41.51545454545454A3.5,3.5,0,1,1,3.5,41.51545454545454A3.5,3.5,0,1,1,-3.5,41.51545454545454Z"
+           opacity="0"
+           id="point-0-42" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,39.843636363636364A3.5,3.5,0,1,1,63.492774963378906,39.843636363636364A3.5,3.5,0,1,1,56.492774963378906,39.843636363636364Z"
+           opacity="0"
+           id="point-0-43" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,35.38545454545454A3.5,3.5,0,1,1,123.48554992675781,35.38545454545454A3.5,3.5,0,1,1,116.48554992675781,35.38545454545454Z"
+           opacity="0"
+           id="point-0-44" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,33.71363636363636A3.5,3.5,0,1,1,183.47832489013672,33.71363636363636A3.5,3.5,0,1,1,176.47832489013672,33.71363636363636Z"
+           opacity="0"
+           id="point-0-45" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,29.812727272727265A3.5,3.5,0,1,1,243.47109985351562,29.812727272727265A3.5,3.5,0,1,1,236.47109985351562,29.812727272727265Z"
+           opacity="0"
+           id="point-0-46" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,27.58363636363636A3.5,3.5,0,1,1,303.46387481689453,27.58363636363636A3.5,3.5,0,1,1,296.46387481689453,27.58363636363636Z"
+           opacity="0"
+           id="point-0-47" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,14.76636363636364A3.5,3.5,0,1,1,363.45664978027344,14.76636363636364A3.5,3.5,0,1,1,356.45664978027344,14.76636363636364Z"
+           opacity="0"
+           id="point-0-48" />
+      </g>
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 366)"
+         clip-path="url(#facet-clip-7)"
+         id="g1140">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,42.629999999999995A3.5,3.5,0,1,1,3.5,42.629999999999995A3.5,3.5,0,1,1,-3.5,42.629999999999995Z"
+           opacity="0"
+           id="point-0-49" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,40.958181818181814A3.5,3.5,0,1,1,63.492774963378906,40.958181818181814A3.5,3.5,0,1,1,56.492774963378906,40.958181818181814Z"
+           opacity="0"
+           id="point-0-50" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,37.61454545454545A3.5,3.5,0,1,1,123.48554992675781,37.61454545454545A3.5,3.5,0,1,1,116.48554992675781,37.61454545454545Z"
+           opacity="0"
+           id="point-0-51" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,35.38545454545454A3.5,3.5,0,1,1,183.47832489013672,35.38545454545454A3.5,3.5,0,1,1,176.47832489013672,35.38545454545454Z"
+           opacity="0"
+           id="point-0-52" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,33.15636363636363A3.5,3.5,0,1,1,243.47109985351562,33.15636363636363A3.5,3.5,0,1,1,236.47109985351562,33.15636363636363Z"
+           opacity="0"
+           id="point-0-53" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,29.255454545454544A3.5,3.5,0,1,1,303.46387481689453,29.255454545454544A3.5,3.5,0,1,1,296.46387481689453,29.255454545454544Z"
+           opacity="0"
+           id="point-0-54" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,20.896363636363635A3.5,3.5,0,1,1,363.45664978027344,20.896363636363635A3.5,3.5,0,1,1,356.45664978027344,20.896363636363635Z"
+           opacity="0"
+           id="point-0-55" />
+      </g>
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 481)"
+         clip-path="url(#facet-clip-8)"
+         id="g1149">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,40.400909090909096A3.5,3.5,0,1,1,3.5,40.400909090909096A3.5,3.5,0,1,1,-3.5,40.400909090909096Z"
+           opacity="0"
+           id="point-0-56" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,38.17181818181818A3.5,3.5,0,1,1,63.492774963378906,38.17181818181818A3.5,3.5,0,1,1,56.492774963378906,38.17181818181818Z"
+           opacity="0"
+           id="point-0-57" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,35.94272727272727A3.5,3.5,0,1,1,123.48554992675781,35.94272727272727A3.5,3.5,0,1,1,116.48554992675781,35.94272727272727Z"
+           opacity="0"
+           id="point-0-58" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,33.71363636363636A3.5,3.5,0,1,1,183.47832489013672,33.71363636363636A3.5,3.5,0,1,1,176.47832489013672,33.71363636363636Z"
+           opacity="0"
+           id="point-0-59" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,30.927272727272722A3.5,3.5,0,1,1,243.47109985351562,30.927272727272722A3.5,3.5,0,1,1,236.47109985351562,30.927272727272722Z"
+           opacity="0"
+           id="point-0-60" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,25.354545454545455A3.5,3.5,0,1,1,303.46387481689453,25.354545454545455A3.5,3.5,0,1,1,296.46387481689453,25.354545454545455Z"
+           opacity="0"
+           id="point-0-61" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,10.865454545454543A3.5,3.5,0,1,1,363.45664978027344,10.865454545454543A3.5,3.5,0,1,1,356.45664978027344,10.865454545454543Z"
+           opacity="0"
+           id="point-0-62" />
+      </g>
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 481)"
+         clip-path="url(#facet-clip-9)"
+         id="g1158">
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M-3.5,43.74454545454545A3.5,3.5,0,1,1,3.5,43.74454545454545A3.5,3.5,0,1,1,-3.5,43.74454545454545Z"
+           opacity="0"
+           id="point-0-63" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M56.492774963378906,40.958181818181814A3.5,3.5,0,1,1,63.492774963378906,40.958181818181814A3.5,3.5,0,1,1,56.492774963378906,40.958181818181814Z"
+           opacity="0"
+           id="point-0-64" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M116.48554992675781,38.17181818181818A3.5,3.5,0,1,1,123.48554992675781,38.17181818181818A3.5,3.5,0,1,1,116.48554992675781,38.17181818181818Z"
+           opacity="0"
+           id="point-0-65" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M176.47832489013672,34.270909090909086A3.5,3.5,0,1,1,183.47832489013672,34.270909090909086A3.5,3.5,0,1,1,176.47832489013672,34.270909090909086Z"
+           opacity="0"
+           id="point-0-66" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M236.47109985351562,32.04181818181818A3.5,3.5,0,1,1,243.47109985351562,32.04181818181818A3.5,3.5,0,1,1,236.47109985351562,32.04181818181818Z"
+           opacity="0"
+           id="point-0-67" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M296.46387481689453,29.255454545454544A3.5,3.5,0,1,1,303.46387481689453,29.255454545454544A3.5,3.5,0,1,1,296.46387481689453,29.255454545454544Z"
+           opacity="0"
+           id="point-0-68" />
+        <path
+           class="data-point"
+           visibility="hidden"
+           fill="#000000"
+           data-type="point"
+           transform="translate(0, 0)"
+           d="M356.45664978027344,20.339090909090906A3.5,3.5,0,1,1,363.45664978027344,20.339090909090906A3.5,3.5,0,1,1,356.45664978027344,20.339090909090906Z"
+           opacity="0"
+           id="point-0-69" />
+      </g>
+    </g>
+    <g
+       id="lines-secondary" />
+    <g
+       id="data-points-secondary" />
+    <g
+       id="axes-highlights">
+      <g
+         class="axis-highlights-facet"
+         id="g1165">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(27.086700439453125, 21)"
+           id="g1163" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1169">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(411.5433349609375, 21)"
+           id="g1167" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1173">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(27.086700439453125, 136)"
+           id="g1171" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1177">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(411.5433349609375, 136)"
+           id="g1175" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1181">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(27.086700439453125, 251)"
+           id="g1179" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1185">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(411.5433349609375, 251)"
+           id="g1183" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1189">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(27.086700439453125, 366)"
+           id="g1187" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1193">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(411.5433349609375, 366)"
+           id="g1191" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1197">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(27.086700439453125, 481)"
+           id="g1195" />
+      </g>
+      <g
+         class="axis-highlights-facet"
+         id="g1201">
+        <g
+           class="axis-highlights"
+           style="opacity: 1;"
+           transform="translate(411.5433349609375, 481)"
+           id="g1199" />
+      </g>
+    </g>
+    <g
+       id="data-point-labels">
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 21)"
+         clip-path="url(#facet-clip-0)"
+         id="g1204" />
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 21)"
+         clip-path="url(#facet-clip-1)"
+         id="g1206" />
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 136)"
+         clip-path="url(#facet-clip-2)"
+         id="g1208" />
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 136)"
+         clip-path="url(#facet-clip-3)"
+         id="g1210" />
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 251)"
+         clip-path="url(#facet-clip-4)"
+         id="g1212" />
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 251)"
+         clip-path="url(#facet-clip-5)"
+         id="g1214" />
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 366)"
+         clip-path="url(#facet-clip-6)"
+         id="g1216" />
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 366)"
+         clip-path="url(#facet-clip-7)"
+         id="g1218" />
+      <g
+         class="series"
+         transform="translate(27.086700439453125, 481)"
+         clip-path="url(#facet-clip-8)"
+         id="g1220" />
+      <g
+         class="series"
+         transform="translate(411.5433349609375, 481)"
+         clip-path="url(#facet-clip-9)"
+         id="g1222" />
+    </g>
+    <g
+       id="stack-labels" />
+    <g
+       class="annotations above"
+       id="g1226" />
+    <g
+       id="g40798">
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-01"
+         x="28.991257"
+         y="215.72844"><tspan
+           x="28.991257"
+           id="tspan82-7-8"
+           style="fill:#666666">0</tspan></text>
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-6-7"
+         x="390.17276"
+         y="215.72844"><tspan
+           x="390.17276"
+           id="tspan82-7-1-3"
+           style="fill:#666666">60</tspan></text>
+      <g
+         id="g40787">
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-4"
+           x="30.156715"
+           y="103.84493"><tspan
+             x="30.156715"
+             id="tspan82-7-71"
+             style="fill:#666666">0</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-6-34"
+           x="391.33823"
+           y="103.84493"><tspan
+             x="391.33823"
+             id="tspan82-7-1-4"
+             style="fill:#666666">60</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40798-2"
+       transform="translate(385.28895,-1.5035362)">
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-01-4"
+         x="28.991257"
+         y="215.72844"><tspan
+           x="28.991257"
+           id="tspan82-7-8-6"
+           style="fill:#666666">0</tspan></text>
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-6-7-4"
+         x="390.17276"
+         y="215.72844"><tspan
+           x="390.17276"
+           id="tspan82-7-1-3-9"
+           style="fill:#666666">60</tspan></text>
+      <g
+         id="g40787-8">
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-4-4"
+           x="30.156715"
+           y="103.84493"><tspan
+             x="30.156715"
+             id="tspan82-7-71-2"
+             style="fill:#666666">0</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-6-34-5"
+           x="391.33823"
+           y="103.84493"><tspan
+             x="391.33823"
+             id="tspan82-7-1-4-7"
+             style="fill:#666666">60</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40798-2-2"
+       transform="translate(386.93006,228.92678)">
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-01-4-7"
+         x="28.991257"
+         y="215.72844"><tspan
+           x="28.991257"
+           id="tspan82-7-8-6-4"
+           style="fill:#666666">0</tspan></text>
+      <text
+         text-anchor="end"
+         style="font-weight:normal;font-size:11.2px;fill:#666666"
+         id="text84-2-6-7-4-4"
+         x="390.17276"
+         y="215.72844"><tspan
+           x="390.17276"
+           id="tspan82-7-1-3-9-0"
+           style="fill:#666666">60</tspan></text>
+      <g
+         id="g40787-8-5">
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-4-4-6"
+           x="30.156715"
+           y="103.84493"><tspan
+             x="30.156715"
+             id="tspan82-7-71-2-0"
+             style="fill:#666666">0</tspan></text>
+        <text
+           text-anchor="end"
+           style="font-weight:normal;font-size:11.2px;fill:#666666"
+           id="text84-2-6-34-5-0"
+           x="391.33823"
+           y="103.84493"><tspan
+             x="391.33823"
+             id="tspan82-7-1-4-7-4"
+             style="fill:#666666">60</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.35701218,0.35701218,0,-324.1296,54.441626)"
+       id="text44095"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48633"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48631">BPM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,201.92226,-143.94574)"
+       id="text44095-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48637"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48635">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,201.92226,-27.85701)"
+       id="text44095-2-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48641"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48639">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,199.48087,83.94724)"
+       id="text44095-2-7-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48645"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48643">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,199.48087,199.99391)"
+       id="text44095-2-7-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48649"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48647">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,199.48087,316.67928)"
+       id="text44095-2-7-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-93);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48653"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48651">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,589.25339,-142.67332)"
+       id="text44095-2-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48657"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48655">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,589.25339,-26.584593)"
+       id="text44095-2-7-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48661"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48659">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,586.812,85.219657)"
+       id="text44095-2-7-0-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-9-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48665"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48663">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,586.812,201.26633)"
+       id="text44095-2-7-6-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-7-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48669"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48667">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28155483,0,0,0.28155483,586.812,317.9517)"
+       id="text44095-2-7-3-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-1-0-93-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48673"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48671">Seconds</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.35701218,0.35701218,0,-324.1296,168.4682)"
+       id="text44095-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48677"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48675">BPM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.35701218,0.35701218,0,-324.1296,283.4682)"
+       id="text44095-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48681"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48679">BPM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.35701218,0.35701218,0,-324.1296,398.4682)"
+       id="text44095-4"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-71);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48685"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48683">BPM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.35701218,0.35701218,0,-324.1296,513.4682)"
+       id="text44095-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44097-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-57.447266"
+         y="880.0152"
+         id="tspan48689"><tspan
+           style="font-weight:300;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+           id="tspan48687">BPM</tspan></tspan></text>
+  </svg>
+  <svg
+     class="flourish-panel-close"
+     viewBox="0 0 40 40"
+     style="width: 1.25rem; height: 1.25rem; position: absolute; right: 1rem; top: 1rem; cursor: pointer; opacity: 0;"
+     x="-31.5"
+     y="14"
+     version="1.1"
+     id="svg1231">
+    <path
+       stroke="#333333"
+       stroke-width="0.5rem"
+       stroke-linecap="round"
+       d="M 10,10 L 30,30 M 30,10 L 10,30"
+       style="stroke: rgb(51, 51, 51);"
+       id="path1229" />
+  </svg>
+</svg>
